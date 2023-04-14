@@ -1,0 +1,11 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "assignment1 cs362",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "reece morgan",
+  "license": "ISC"
+}
